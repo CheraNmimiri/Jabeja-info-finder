@@ -1,3 +1,3 @@
-Before use This code please download "msedgedriver.exe" from this link and copy that to "C:\Program Files (x86)\Microsoft\Edge\Application.
+Before use This code please download "chromedriver.exe" from this link and copy that to "C:\Program Files\Google\Chrome\Application".
 and just work with edge browser.
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+https://chromedriver.chromium.org/downloads
